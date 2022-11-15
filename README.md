@@ -47,6 +47,8 @@ and LDA.
 **Recommender with Cosine Similarity**
 * Used cosine similarity to build the content recommender
 
+![NLP- Presentation ](https://user-images.githubusercontent.com/31965719/200125869-55c9a877-da62-4bb0-9bfd-3f76bb3c558f.gif)
+
 ## **Tools**
 * Pandas and Numpy for data exploration and pre-processing
 * Scikit Learn, NLTK, Regex, Gensim for pre-processing

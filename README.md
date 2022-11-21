@@ -1,4 +1,4 @@
-# NLP
+# A completely new way of discovering interesting tweets!
 For full presentation, click [here.](https://github.com/riwasabri/NLP/blob/master/NLP-%20Presentation%20.pdf)
 
 ## **Design** 
